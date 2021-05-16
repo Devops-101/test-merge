@@ -4,7 +4,7 @@ After resolution 4
 Feature 4 Added here.
 
 if(feature4){dsaf
-dsaf
+apple from feature 6
 sadf
 f
 sg
