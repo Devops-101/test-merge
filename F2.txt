@@ -1,5 +1,6 @@
 Featuer 2 Description.
 
+After resolution 4
 Feature 4 Added here.
 
 if(feature4){dsaf
@@ -19,3 +20,8 @@ gfhfg
 h;
 
 }
+
+
+After resolution 3
+Feature 3 is added here.
+
